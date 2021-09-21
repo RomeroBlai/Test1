@@ -15,11 +15,14 @@ namespace Code
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello everybody!");
             Console.WriteLine("World i a really big place");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Banana Split");
+            Console.WrtieLine("More Information");
 
 
         }

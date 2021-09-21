@@ -22,7 +22,7 @@ namespace Code
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Banana Split");
-            Console.WrtieLine("More Information");
+            Console.WriteLine("More Information");
 
 
         }

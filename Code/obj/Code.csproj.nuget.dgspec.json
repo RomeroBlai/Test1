@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romer\\OneDrive\\Escritorio\\Prueba\\Code\\Code.csproj": {}
+    "D:\\Documents\\2021-2022\\M05\\Sprint 1\\Code\\Test1\\Code\\Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romer\\OneDrive\\Escritorio\\Prueba\\Code\\Code.csproj": {
+    "D:\\Documents\\2021-2022\\M05\\Sprint 1\\Code\\Test1\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romer\\OneDrive\\Escritorio\\Prueba\\Code\\Code.csproj",
+        "projectUniqueName": "D:\\Documents\\2021-2022\\M05\\Sprint 1\\Code\\Test1\\Code\\Code.csproj",
         "projectName": "Code",
-        "projectPath": "C:\\Users\\romer\\OneDrive\\Escritorio\\Prueba\\Code\\Code.csproj",
-        "packagesPath": "C:\\Users\\romer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romer\\OneDrive\\Escritorio\\Prueba\\Code\\obj\\",
+        "projectPath": "D:\\Documents\\2021-2022\\M05\\Sprint 1\\Code\\Test1\\Code\\Code.csproj",
+        "packagesPath": "C:\\Users\\marcc\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\2021-2022\\M05\\Sprint 1\\Code\\Test1\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\romer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     }

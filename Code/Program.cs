@@ -25,6 +25,9 @@ namespace Code
             Console.WriteLine("More Information");
             //how are you today
 
+            int variable = 15;
+            Console.WrteLine(variable);
+
 
         }
 

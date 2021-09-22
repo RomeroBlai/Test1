@@ -28,8 +28,7 @@ namespace Code
             int variable = 15;
             //multiply by two
             variable = variable * 2;
-            Console.WrteLine(variable);
-
+            Console.WriteLine(variable);
 
         }
 

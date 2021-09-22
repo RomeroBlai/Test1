@@ -26,6 +26,8 @@ namespace Code
             //how are you today
 
             int variable = 15;
+            //multiply by two
+            variable = variable * 2;
             Console.WrteLine(variable);
 
 

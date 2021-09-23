@@ -11,20 +11,13 @@ namespace Code
             Console.WriteLine("Hello World!");
             Console.WriteLine("World i a really big place");
             //some notes over here
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello everybody!");
-            Console.WriteLine("World i a really big place");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(" everybody!");
+            Console.WriteLine("World");
             //some information here
             Console.WriteLine("Banana Split");
             Console.WriteLine("More Information");
             //how are you today
-
             int variable = 15;
             //multiply by two
             variable = variable * 2;
